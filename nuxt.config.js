@@ -46,5 +46,5 @@ export default {
   build: {
   },
 
-  srcDir: '/client'
+  srcDir: 'client/'
 }
